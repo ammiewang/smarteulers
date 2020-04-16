@@ -1,0 +1,20 @@
+Equations need to follow Python syntax, so this is a brief guide.
+Please only use the letters t and y as variables.
+
++ addition
+- subtraction
+* multiplication
+/ division
+** exponentiation
+
+As for some common functions...
+
+exp(t) is e to the power of t
+log(t) is the natural log of t
+sin(y), cos(y), tan(y) are sine, cosine, and tangent of y, respectively
+
+Examples from our paper:
+
+exp(t)*sin(y)
+y
+(3-y)*(y+1)
