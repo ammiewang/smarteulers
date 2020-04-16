@@ -4,9 +4,6 @@ In order to operate this program, the user will need Python3 as well as the foll
 - numpy or matplotlib
 - csv
 
-To install any necessary packages, simply write "pip install [package]" or
-"pip3 install [package]" in the terminal command line.
-
 times.py
 - Run times.py in order to test the runtime of each Euler's method algorithm.
   The runtimes should be output in the terminal. (Please note that even upon 
